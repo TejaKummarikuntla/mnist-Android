@@ -17,8 +17,7 @@ All included
 
 ## Usage
 
-Just open this project with Android Studio and is ready to run, this will work
-with x86 and armeabi-v7a architectures.
+Just open this project with Android Studio and is ready to run.
 
 ### How to export my model?
 
